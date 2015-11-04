@@ -9748,7 +9748,7 @@ $(".click").on("click",function(){
         module.exports = templater({
             compiler: [6, ">= 2.0.0-beta.1"],
             main: function() {
-                return '<div class="bg-video-container">\n  <img class="bg-video-poster" src="dist/img/1.png">\n</div>'
+                return '<div class="bg-video-container">\n  <img class="bg-video-poster" src="">\n</div>'
             },
             useData: !0
         });
