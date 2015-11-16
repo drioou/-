@@ -51,7 +51,7 @@ footer{position:absolute;left:28px;right:28px;bottom:16px;height:32px;line-heigh
 .line:before{left:1px}
 .line:after{right:1px}
 .line-start{top:2.375em;left:50%;opacity:0}
-.signup-form{display:none;position:relative;top:50%;width:100%}
+.signup-form{display:none;position:relative;top:37%;width:100%}
 .signup-form-field{position:relative;height:102px;opacity:.6}
 .tablet .signup-form-field{height:90px}
 .mobile .signup-form-field{height:70px}
@@ -130,7 +130,7 @@ background: url(../img/1.png) repeat-y;background-size: cover}
     color: rgba(0,0,0,.25);
     cursor: pointer;
 }
-h2{font-size:3rem;}
+h2{font-size:3rem;display: flex;align-items:center;justify-content:center;align-content:center;height: 133px;}
 h2 i{margin-right: 1rem;}
 .list-group-item {
     position: relative;
